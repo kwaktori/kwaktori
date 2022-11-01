@@ -1,7 +1,7 @@
 # Hi, This is Jiseon Github 👩🏻‍💻✨
 
 ### 🍞 소개
-#### 안드로이드 개발자 곽지선 입니다 🌷
+#### 안드로이드 개발자 곽지선 입니다 !
 ##### Email : kwakjiseon1117@gmail.com
 ##### Blog : https://z2sonee.tistory.com
 ##### Instagram : @z2sonee
@@ -17,7 +17,7 @@
 ### 🍞 자격증
 #### ✔️ 정보처리기사
 #### ✔️ 리눅스마스터 2급
-#### ✔️ 한국사능력검정시험 3급
+#### ✔️ OPIC 영어 IH
 #
 ### 🍞 프로젝트
 #### 1. Android App Project 
